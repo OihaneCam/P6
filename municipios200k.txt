@@ -1,0 +1,64 @@
+1	Madrid	3286662	 Madrid	 Comunidad de Madrid
+2	Barcelona	1636193	 Barcelona	 Cataluña
+3	Valencia	792492	Valencia	 Comunidad Valenciana
+4	Sevilla	681998	 Sevilla	 Andalucía
+5	Zaragoza	673010	 Zaragoza	 Aragón
+6	Málaga	579076	 Málaga	 Andalucía
+7	Murcia	462979	 Murcia  Región de Murcia
+8	Palma de Mallorca	415940	 Baleares  Islas Baleares
+9	Las Palmas de Gran Canaria	378797	Las Palmas	 Canarias
+10	Bilbao	344127	 Vizcaya	 País Vasco
+11	Alicante	338577	Alicante	 Comunidad Valenciana
+12	Córdoba	319515	 Córdoba	 Andalucía
+13	Valladolid	295639	 Valladolid	 Castilla y León
+14	Vigo	292374	 Pontevedra	   Galicia
+15	Gijón	267706	 Asturias    Principado de Asturias
+16	Hospitalet de Llobregat	265444	 Barcelona	 Cataluña
+17	Vitoria	253672	 Álava	 País Vasco
+18	La Coruña	244700	La Coruña	 Galicia
+19	Elche	235580	Alicante	 Comunidad Valenciana
+20	Granada	228682	 Granada	 Andalucía
+21	Tarrasa	224114	 Barcelona	 Cataluña
+22	Badalona	223506	 Barcelona	 Cataluña
+23	Cartagena	216961	 Murcia  Región de Murcia
+24	Sabadell	215760	 Barcelona	 Cataluña
+25	Oviedo	215167	 Asturias  Principado de Asturias
+26	Jerez de la Frontera	212730	 Cádiz	 Andalucía
+27	Móstoles	208761	Madrid   Comunidad de Madrid
+28	Santa Cruz de Tenerife	208688	Santa Cruz de Tenerife	 Canarias
+29	Pamplona	210418	 Navarra  Navarra
+30	Almería	199237	 Almería	 Andalucía
+31	Alcalá de Henares	196888	 Madrid  Comunidad de Madrid
+32	Fuenlabrada	189891	 Madrid  Comunidad de Madrid
+33	San Sebastián	187849	 Guipúzcoa	 País Vasco
+34	Leganés	186660	 Madrid  Comunidad de Madrid
+35	Getafe	183218	 Madrid  Comunidad de Madrid
+36	Burgos	173483	 Burgos	 Castilla y León
+37	Albacete	172357	 Albacete	 Castilla-La Mancha
+38	Castellón de la Plana	171857	Castellón	 Comunidad Valenciana
+39	Santander	171693	 Cantabria  Cantabria
+40	Alcorcón	170296	 Madrid  Comunidad de Madrid
+41	San Cristóbal de La Laguna	157815	Santa Cruz de Tenerife	 Canarias
+42	Marbella	150725	 Málaga	 Andalucía
+43	Badajoz	150146	 Badajoz	 Extremadura
+44	Logroño	150020	 La Rioja  La Rioja
+45	Salamanca	142412	 Salamanca	 Castilla y León
+46	Huelva	141854	 Huelva	 Andalucía
+47	Lérida	140797	Lérida	 Cataluña
+48	Dos Hermanas	137561	 Sevilla	 Andalucía
+49	Tarragona	134883	 Tarragona	 Cataluña
+50	Torrejón de Ardoz	134733	 Madrid  Comunidad de Madrid
+51	Parla	130577	 Madrid  Comunidad de Madrid
+52	Mataró	128956	 Barcelona	 Cataluña
+53	Algeciras	122368	 Cádiz	 Andalucía
+54	León	120951	 León	 Castilla y León
+55	Santa Coloma de Gramanet	117981	 Barcelona	 Cataluña
+56	Alcobendas	117041	 Madrid  Comunidad de Madrid
+57	Cádiz	113066	 Cádiz	 Andalucía
+58	Jaén	111669	 Jaén	 Andalucía
+59	Reus	106741	 Tarragona	 Cataluña
+60	Orense	103756	 Orense	 Galicia
+61	Roquetas de Mar	102881	 Almería	 Andalucía
+62	Gerona	102666	Gerona	 Cataluña
+63	Telde	102472	Las Palmas	 Canarias
+64	Baracaldo	100535	 Vizcaya	 País Vasco
